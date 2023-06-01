@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+
+# Logs
+*.log
+
+# Environment variables or configuration files containing sensitive information
+.env
+config.py
+
+# Dependency directories
+__pycache__/
